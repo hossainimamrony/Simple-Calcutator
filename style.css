@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(0, 0, 0, 0.787);
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+}
+.calculator{
+    border:1px solid rgba(255, 255, 255, 0.774);
+    display: inline-block;
+    padding:45px 25px;
+   
+}
+.resultshow{
+    margin-bottom:10px;
+    border-radius: 5px;
+     background-color: rgb(124, 122, 122);
+    width:285px;
+    height: 60px;
+    font-size: 50px;
+    color: rgb(102, 100, 100);
+}
+::placeholder{
+    color:rgb(102, 100, 100);
+}
+button{
+    width: 55px;
+    height: 45px;
+    margin :10px 9px;
+}
